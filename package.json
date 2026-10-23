@@ -1,5 +1,17 @@
 {
   "dependencies": {
-    "vite": "^8.3.1"
-  }
+    "bootstrap": "^5.3.8",
+    "vite": "^8.3.5"
+  },
+  "name": "veterinaria-la-mary",
+  "version": "1.0.0",
+  "description": "Trabajo Final Integrador - Veterinaria La Mary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
